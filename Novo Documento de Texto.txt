@@ -1,0 +1,64 @@
+{
+  "idUsuario": 0,
+  "nome": "Frederico Rook",
+  "login": "Rook",
+  "email": "rook@mail.com",
+  "senha": "123456",
+  "cpf": "09648328609",
+  "tipoUsuario": "Root"
+}
+
+{
+  "login": "Rook",
+  "senha": "123456"
+}
+
+{
+  "idImovel": 0,
+  "idUsuario": 1,
+  "nomeImovel": "CasaDoRook",
+  "nQuarto": 2,
+  "nBanheiro": 1,
+  "nVagasGaragem": 1,
+  "metrosQuadrados": "71",
+  "valorAluguel": 1200,
+  "valorCondominio": 350,
+  "valorIptu": 90,
+  "locado": false,
+  "cep": "31720550",
+  "estado": "Minas Gerais",
+  "cidade": "Belo Horizonte",
+  "bairro": "Planalto",
+  "logradouro": "Rua Pastor Abreu",
+  "numero": "9",
+  "complemento": "Apto101",
+  "referencia": "Rua da Creche"
+}
+
+{
+  "idImovel": 0,
+  "idUsuario": 1,
+  "nomeImovel": "CasaDoRook",
+  "nQuarto": 2,
+  "nBanheiro": 1,
+  "nVagasGaragem": 1,
+  "metrosQuadrados": "71",
+  "valorAluguel": 1200,
+  "valorCondominio": 350,
+  "valorIptu": 90,
+  "locado": false,
+  "cep": "31720550",
+  "estado": "Minas Gerais",
+  "cidade": "Belo Horizonte",
+  "bairro": "Planalto",
+  "logradouro": "Rua Pastor Abreu",
+  "numero": "9",
+  "complemento": "Apto101",
+  "referencia": "Rua da Creche",
+  "usuario": {
+    "idUsuario": 1,
+    "nome": "Frederico Rook",
+    "email": "rook@mail.com",
+    "cpf": "09648328609"
+  }
+}
